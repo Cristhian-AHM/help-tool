@@ -1,0 +1,3 @@
+extern unsigned char startGame;
+extern unsigned int player1;
+extern unsigned int player2;
